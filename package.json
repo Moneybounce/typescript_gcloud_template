@@ -1,9 +1,9 @@
 {
-  "name": "typeform_sub",
+  "name": "gcloud_typescript_template",
   "version": "0.0.1",
-  "description": "Parse and send clients filled forms for database storage",
-  "main": "build/index.js",
-  "repository": "https://github.com/Moneybounce/typeform_sub.git",
+  "description": "The most basic, straight forward and simple template for using Typescript with gCloud Node.js functions",
+  "main": "gcloud/index.js",
+  "repository": "https://github.com/Moneybounce/typescript_gcloud_template.git",
   "author": "LaFusew <antoine.oddoz@gmail.com>",
   "license": "MIT",
   "scripts": {
